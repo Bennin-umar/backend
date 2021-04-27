@@ -1,5 +1,5 @@
 import React from "react"
-import { col, Form} from "react-bootstrap";
+import { Col} from "react-bootstrap";
 
 const RegisterUserScreen = () => {
     return (
