@@ -48,7 +48,7 @@ const UsersContextProvider = ({ children }) => {
     //   headers: {
     //     "Content-Type": "application/json",
     //   },
-    };
+    // };
     console.log(data);
   }
 
